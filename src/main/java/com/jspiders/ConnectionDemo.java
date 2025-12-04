@@ -29,6 +29,6 @@ public class ConnectionDemo {
         sessionFactory.close();
         System.out.println("Session factory closed");
 
-        System.out.println("Program Ends");
+        System.out.println("Program Ends.......");
     }
 }
