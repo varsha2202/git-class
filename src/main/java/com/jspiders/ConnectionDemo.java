@@ -6,7 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 public class ConnectionDemo {
     public static void main(String[] args) {
-        System.out.println("Program Starts");
+        System.out.println("Program Starts...");
 
         //load configuration
         Configuration config = new Configuration();
