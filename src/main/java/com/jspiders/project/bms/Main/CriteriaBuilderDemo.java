@@ -51,6 +51,6 @@ public class CriteriaBuilderDemo {
 
 
         session.close();
-        System.out.println("session closed..");
+        System.out.println("session closed successfully");
     }
 }
